@@ -1,0 +1,9 @@
+.col{
+    background-color: rgb(200, 200, 255);
+    border: 1px solid #000;
+}
+
+.row{
+    margin-bottom: 15px;
+    
+}

@@ -1,0 +1,12 @@
+top{
+    color:brown
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: rgb(237,236,186);
+    background: linear-gradient(90deg, rgba(237,236,186,1) 0%, rgba(238,255,201,1) 5%, rgba(226,255,205,1) 27%, rgba(175,255,243,1) 72%, rgba(192,255,236,1) 80%, rgba(254,255,190,1) 99%);
+    color: rgb(32, 7, 90);
+    font-size: 18px;;
+    font-weight: 400px;
+}
